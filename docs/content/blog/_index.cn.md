@@ -23,4 +23,4 @@ chapter = true
 
 * 2015-11 [CSDN专访：深度解读分布式作业调度框架elastic-job](http://www.csdn.net/article/2015-11-23/2826304)
 
-* 2015-09 [InfoQ新闻：当当开源elastic-job，分布式作业调度框架](http://www.infoq.com/cn/news/2015/09/dangdang-elastic-job)
+* 2015-09 [InfoQ新闻：当当开源elastic-job，分布式作业调度框架](http://www.infoq.com/cn/news/2015/09/dangdang-elastic-job)啊啊啊啊手动阀方式
